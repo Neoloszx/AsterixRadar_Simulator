@@ -1,0 +1,46 @@
+[
+  {
+    "id": "11",
+    "wgs_84_coordinates": {
+      "latitude": 13.755969687747733,
+      "longitude": 100.56486663416781
+    },
+    "target_identification": "T-6",
+    "flight_level": "FL120",
+    "radius": 5000,
+    "theta": 76.525612069657
+  },
+  {
+    "id": "11",
+    "wgs_84_coordinates": {
+      "latitude": 13.770778715582082,
+      "longitude": 100.5113723716432
+    },
+    "target_identification": "A-10",
+    "flight_level": "FL3000",
+    "radius": 4000,
+    "theta": 75.07561206965708
+  },
+  {
+    "id": "11",
+    "wgs_84_coordinates": {
+      "latitude": 13.73056484132708,
+      "longitude": 100.51634507370936
+    },
+    "target_identification": "F15-E",
+    "flight_level": "FL12000",
+    "radius": 1000,
+    "theta": 73.0756120696572
+  },
+  {
+    "id": "11",
+    "wgs_84_coordinates": {
+      "latitude": 13.732702902113223,
+      "longitude": 100.51937775192434
+    },
+    "target_identification": "SU-27",
+    "flight_level": "FL11500",
+    "radius": 800,
+    "theta": 10
+  }
+]
