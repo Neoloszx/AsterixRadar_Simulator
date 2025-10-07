@@ -1,12 +1,16 @@
-# Getting Started with Create React App
+# ติดตั้งโมดูลเพิ่มเติม
+### `npm install express`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## วิธีใช้งาน Frontend
+ไปที่หน้าโฟลเดอร์หลัก
+### `npm run start`
 
-### `npm start`
+## วิธีใช้งาน Backend
+ไปที่โฟล์เดอร์ Websocket
+### `node server.js`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
