@@ -16,13 +16,13 @@
 
 ###รูปแบบการใช้ API
 ## check health - ตรวจสอบสถานะ API
-curl http://localhost:3001/health
+### `curl http://localhost:3001/health`
 
 ## ตรวจสอบไฟล์ cat21.json (สำหรับการอ่านค่าเพื่อแสดงผลจุดแดงบนเรดาห์)
-curl http://localhost:3001/cat21
+### `curl http://localhost:3001/cat21`
 
 ## Inject New Plane or ADS-B Object
-curl -X POST http://localhost:3001/inject \
+### `curl -X POST http://localhost:3001/inject \
   -H "Content-Type: application/json" \
   -H "x-api-key: ctf-test-key" \
   -d '[
@@ -38,7 +38,5 @@ curl -X POST http://localhost:3001/inject \
     "theta": 60.42561206965791,
     “callsign” : “Godzilla”
   }
-  ]'
+  ]'`
 
-
-#ทดสอบการ Inject API
